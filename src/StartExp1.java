@@ -1,3 +1,4 @@
+//this was created by extending the thread class
 public class StartExp1 extends Thread{
     public void run(){
         System.out.println("thread is running");
